@@ -1,6 +1,6 @@
 # gulp-concat-style
 
-[![npm version](http://img.shields.io/npm/v/gulp-concat-style.svg)](https://www.npmjs.org/package/gulp-concat-style) [![npm download](http://img.shields.io/npm/dm/gulp-concat-style.svg)](https://www.npmjs.org/package/gulp-concat-style) [![npm dependencise](https://david-dm.org/noyobo/gulp-concat-style.svg)](https://david-dm.org/noyobo/gulp-concat-style)
+[![npm version](http://img.shields.io/npm/v/gulp-concat-style.svg?style=flat-square)](https://www.npmjs.org/package/gulp-concat-style) [![npm download](http://img.shields.io/npm/dm/gulp-concat-style.svg?style=flat-square)](https://www.npmjs.org/package/gulp-concat-style) [![npm dependencise](https://david-dm.org/noyobo/gulp-concat-style.svg?style=flat-square)](https://david-dm.org/noyobo/gulp-concat-style)
 
 Concatenates style files `less scss css` according to the grouping rule;
 
@@ -29,7 +29,7 @@ gulp.task('default', function() {
 })
 ```
 
-## API
+## Options
 
 ```js
 {
