@@ -29,6 +29,26 @@ gulp.task('default', function() {
 })
 ```
 
+```
+test/retina
+├── btn-0.less
+├── btn-1.less
+├── fest-5.less
+├── fest-6.less
+├── service-2.less
+├── service-3.less
+└── service-6.less
+```
+
+#### after:
+
+```
+test/build
+├── btn.less
+├── fest.less
+└── service.less
+```
+
 ## Options
 
 ```js
